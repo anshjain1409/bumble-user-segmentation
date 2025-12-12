@@ -66,7 +66,7 @@ Based on the analysis, the following actions are recommended for the product tea
     ```
 
 ## 👤 Author
-**Ansh Jain** [LinkedIn](https://linkedin.com/in/anshjain1409) | [Portfolio](https://anshjain.pages.dev)
+**Ansh Jain** [LinkedIn](https://linkedin.com/in/anshjain1409) | [Portfolio](https://nextleap.app/portfolio/ansh-jain-1rym)
 
 ---
 *Disclaimer: This analysis is based on a public dataset for educational purposes.*
