@@ -1,4 +1,4 @@
-# 🐝 Bumble User Profiling & Strategic Analysis
+# Bumble User Profiling & Strategic Analysis
 
 ## 📌 Project Overview
 Bumble is a market leader in the dating app space. However, maintaining a competitive edge requires a deep understanding of user intent and marketplace health. 
